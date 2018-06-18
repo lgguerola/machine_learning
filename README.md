@@ -1,2 +1,2 @@
 # machine_learning
-Machine LEarning Exercises
+Machine Learning Exercises
